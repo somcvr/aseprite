@@ -1,5 +1,3 @@
-path
-.github/workflows/build.yml
 name: build
 on: [push, pull_request]
 jobs:
